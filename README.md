@@ -3,7 +3,7 @@
 I recently conducted an in-depth analysis of student performance on an entrance examination using Python and data analytics. 📊 The goal? To identify key factors influencing success and provide data-driven insights for students and educators.
 
 🔍 Key Findings:
-✅ Certain subjects had a stronger correlation with overall scores.\n
+✅ Certain subjects had a stronger correlation with overall scores.
 ✅ Performance trends varied across different demographics.
 ✅ Time spent on preparation played a significant role in outcomes.
 
